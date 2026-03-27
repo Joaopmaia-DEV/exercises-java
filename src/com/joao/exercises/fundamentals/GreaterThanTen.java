@@ -1,4 +1,4 @@
-package com.joao.exercises;
+package com.joao.exercises.fundamentals;
 
 public class GreaterThanTen {
      public void main(String[] args) {

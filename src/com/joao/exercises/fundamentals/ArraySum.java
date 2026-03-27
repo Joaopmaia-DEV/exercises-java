@@ -1,4 +1,4 @@
-package com.joao.exercises;
+package com.joao.exercises.fundamentals;
 
 public class ArraySum {
     static void main(String[] args) {
