@@ -1,8 +1,8 @@
 package com.joao.exercises.methods.model;
 
 public class BankAccount {
-    String owner;
-    double balance;
+    public String owner;
+    public double balance;
 
     public void deposit(double amount) {
         this.balance += amount;
